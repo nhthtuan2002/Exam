@@ -1,0 +1,6 @@
+C:\Users\nguye\RiderProjects\ConsoleApplication1\ExamC#\bin\Debug\ExamC#.exe
+C:\Users\nguye\RiderProjects\ConsoleApplication1\ExamC#\bin\Debug\ExamC#.pdb
+C:\Users\nguye\RiderProjects\ConsoleApplication1\ExamC#\obj\Debug\ExamC#.csprojAssemblyReference.cache
+C:\Users\nguye\RiderProjects\ConsoleApplication1\ExamC#\obj\Debug\ExamC#.csproj.CoreCompileInputs.cache
+C:\Users\nguye\RiderProjects\ConsoleApplication1\ExamC#\obj\Debug\ExamC#.exe
+C:\Users\nguye\RiderProjects\ConsoleApplication1\ExamC#\obj\Debug\ExamC#.pdb
